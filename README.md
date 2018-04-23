@@ -28,3 +28,14 @@ Resources I've found useful for a variety of topics
 [Cscope Man Page](http://cscope.sourceforge.net/cscope_man_page.html)
 
 [Vim documentation: if_cscop](http://vimdoc.sourceforge.net/htmldoc/if_cscop.html)
+
+## Cygwin
+[Mintty color scheme (Cygwin)](http://www.rosipov.com/blog/mintty-color-scheme-cygwin/)
+
+[A Proper Cygwin Environment](http://randomartifacts.blogspot.com/2012/10/a-proper-cygwin-environment.html)
+
+## Terminal Multiplexers
+[How to use GNU screen - the terminal multiplexer - linux](https://www.youtube.com/watch?v=I4xVn6Io5Nw&t=187s)
+
+## Automation
+[How To Use Fabric To Automate Administration Tasks And Deployments](https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments)
