@@ -1,5 +1,5 @@
 # resources
-Resources I've found useful for a variety of topics
+Curated list of various resources I've found useful for a variety of topics
 
 ## Markdown
 [Markdown Demo/Example](https://markdown-it.github.io/)
