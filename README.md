@@ -1,6 +1,12 @@
 # resources
 Curated list of various resources I've found useful for a variety of topics
 
+## Blogs
+[NativeCoding](https://nativecoding.wordpress.com/)
+
+## Dotfiles
+[Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
+
 ## Markdown
 [Markdown Demo/Example](https://markdown-it.github.io/)
 
@@ -11,6 +17,23 @@ Curated list of various resources I've found useful for a variety of topics
 [GDB Quick Reference - Version 5](https://www.cs.princeton.edu/courses/archive/fall16/cos432/hw2/gdb-refcard.pdf)
 
 [GDB commands by function - simple guide](https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30)
+
+[GDB Manual - User Defined Commands](https://sourceware.org/gdb/onlinedocs/gdb/Define.html)
+
+[GDB Scripting— Part 1](https://www.adacore.com/gems/gem-119-gdb-scripting-part-1)
+
+[GDB Scripting— Part 2](https://www.adacore.com/gems/gem-120-gdb-scripting-part-2)
+
+[GDB Python Utils](https://github.com/crossbowerbt/GDB-Python-Utils)
+
+[GDB Debugging Automation with Python : Implementing a memory leak detector](https://nativecoding.wordpress.com/2016/07/31/gdb-debugging-automation-with-python/)
+
+[Examining The Symbol Table](https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_12.html)
+
+[Python GDB Tutorial](https://sourceware.org/gdb/wiki/PythonGdbTutorial)
+
+[GDB Manual - Python API](https://sourceware.org/gdb/onlinedocs/gdb/Python-API.html#Python-API)
+
 
 ## CTAGS/CSCOPE
 [Tag Jumping in a Codebase Using ctags and cscope in Vim](https://www.embeddedarm.com/blog/tag-jumping-in-a-codebase-using-ctags-and-cscope-in-vim/)
